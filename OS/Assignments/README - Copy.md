@@ -1,2 +1,0 @@
-# BSITM2
-UOS
